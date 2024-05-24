@@ -1,0 +1,4 @@
+4.  K-Neighbor Classifier
+5.  Naive Bayers, GaussianNB
+6.  SVM
+7.  Logistic Regression
